@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Companies
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Companies}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Companies}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=comp
+comment1.target=void\ addCompany(Company)
+comment2.params=service
+comment2.target=void\ printCompanies(Service)
+comment3.params=name
+comment3.target=Company\ findCompany(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getCompanies()
+comment5.params=time\ customer\ companiesTime
+comment5.target=java.util.ArrayList\ findCompaniesTime(double,\ Customer,\ java.util.ArrayList)
+comment6.params=cost\ customer\ companiesCost
+comment6.target=java.util.ArrayList\ findCompaniesCost(double,\ Customer,\ java.util.ArrayList)
+numComments=7

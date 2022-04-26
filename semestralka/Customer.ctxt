@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Customer}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Customer}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=
+comment1.target=Customer()
+comment2.params=email\ name\ password\ address\ birthDate\ position
+comment2.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.time.LocalDate,\ Position)
+comment3.params=customer
+comment3.target=Customer(Customer)
+comment4.params=
+comment4.target=Position\ getPosition()
+comment5.params=position
+comment5.target=void\ setPosition(Position)
+comment6.params=
+comment6.target=java.util.ArrayList\ getHistory()
+comment7.params=history
+comment7.target=void\ setHistory(java.util.ArrayList)
+comment8.params=order
+comment8.target=void\ addHistory(Order)
+comment9.params=
+comment9.target=void\ printHistory()
+numComments=10

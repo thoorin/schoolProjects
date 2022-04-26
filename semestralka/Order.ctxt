@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Order
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Order}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Order}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=position\ service\ company\ customer
+comment1.target=Order(Position,\ Service,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Position\ getPosition()
+comment3.params=
+comment3.target=Service\ getService()
+comment4.params=
+comment4.target=java.lang.String\ getCompany()
+comment5.params=
+comment5.target=java.lang.String\ getCustomer()
+numComments=6

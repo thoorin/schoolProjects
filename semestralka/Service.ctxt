@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Service
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Service}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Service}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=priceKm\ timeKm\ position
+comment1.target=Service(double,\ double,\ Position)
+comment2.params=
+comment2.target=Service()
+comment3.params=
+comment3.target=double\ getPriceKm()
+comment4.params=
+comment4.target=double\ getTimeKm()
+comment5.params=price
+comment5.target=void\ setPriceKm(double)
+comment6.params=time
+comment6.target=void\ setTimeKm(double)
+comment7.params=
+comment7.target=Position\ getPosition()
+comment8.params=position
+comment8.target=void\ setPosition(Position)
+numComments=9

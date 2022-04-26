@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=HotelPremium
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ HotelPremium}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ HotelPremium}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=
+comment1.target=HotelPremium()
+comment2.params=luxuryTax\ code\ name\ location\ category\ numberOfRooms\ roomPrice
+comment2.target=HotelPremium(double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=hotel
+comment3.target=HotelPremium(HotelPremium)
+comment4.params=luxuryTax
+comment4.target=void\ setLuxuryTax(double)
+comment5.params=
+comment5.target=double\ getLuxuryTax()
+comment6.params=
+comment6.target=void\ calculatePrice()
+comment7.params=newTax
+comment7.target=void\ calculatePrice(double)
+numComments=8

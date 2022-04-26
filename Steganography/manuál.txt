@@ -1,0 +1,6 @@
+Program se skládá z dvou obrazovek, první pro zašifrování textu do obrázku a druhá pro získání textu ze zašifrovaného obrázku.
+Obrazovky se přepínají černým tlačítkem vespod (tlačítka Dekódovat a Zakódovat). Pro zašifrování textu do obrázku napište požadovaný
+text do textové oblasti a poté zmáčkněte enter a zmáčkněte tlačítko Najít obrázek. Poté je možné i tento obrázek zmáčknutím tlačítko Uložit obrázek. 
+Okamžitě po přechod na obrazovku dekodování vyskočí dialogové okno. Zde vyberte zašifrovaný obrázek, který se má dekodovat.
+Výsledek by se měl objevit na obrazovce. Pokud chcete další obrázek dekodovat, stačí zmáčknout tlačítko Najít obrázek a vybrat daný obrázek.
+

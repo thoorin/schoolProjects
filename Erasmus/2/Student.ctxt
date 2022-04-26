@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Student}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Student}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=code\ name
+comment1.target=Student(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCode()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=student
+comment4.target=int\ compareTo(Student)
+comment5.params=
+comment5.target=int\ hashCode()
+numComments=6

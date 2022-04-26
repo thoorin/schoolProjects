@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=HotelsInc
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ HotelsInc}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ HotelsInc}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=h
+comment1.target=void\ add(Hotel)
+comment2.params=code
+comment2.target=boolean\ hotelExists(java.lang.String)
+comment3.params=
+comment3.target=int\ howMany()
+comment4.params=location
+comment4.target=int\ howMany(java.lang.String)
+comment5.params=type
+comment5.target=int\ howManyOfType(java.lang.String)
+comment6.params=code
+comment6.target=Hotel\ getHotel(java.lang.String)
+comment7.params=
+comment7.target=java.util.List\ getHotels()
+comment8.params=hs
+comment8.target=void\ add(java.util.Set)
+comment9.params=
+comment9.target=double\ dailyRevenue()
+numComments=10

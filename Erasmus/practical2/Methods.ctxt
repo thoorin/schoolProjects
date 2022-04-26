@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Methods
+comment1.params=arrayOfStrings
+comment1.target=void\ setArray(java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ getArray()
+comment3.params=
+comment3.target=java.lang.String\ longestString()
+comment4.params=array
+comment4.target=java.util.ArrayList\ arrayWithoutRepetitions(java.util.ArrayList)
+comment5.params=
+comment5.target=java.util.ArrayList\ arrayWithoutRepetitions()
+comment6.params=
+comment6.target=java.util.ArrayList\ findRecurrentStrings()
+comment7.params=str
+comment7.target=int\ findNumberOfOccurences(java.lang.String)
+numComments=8

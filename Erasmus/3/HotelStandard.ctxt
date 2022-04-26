@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HotelStandard
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ HotelStandard}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ HotelStandard}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=
+comment1.target=HotelStandard()
+comment2.params=season\ code\ name\ location\ category\ numberOfRooms\ roomPrice
+comment2.target=HotelStandard(Season,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=hotel
+comment3.target=HotelStandard(HotelStandard)
+comment4.params=season
+comment4.target=void\ setSeason(Season)
+comment5.params=
+comment5.target=Season\ getSeason()
+numComments=6
